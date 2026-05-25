@@ -71,7 +71,9 @@ Passionate about Frontend Development and Creative Web Design.
 
 ## Output
 
-The project successfully creates a beautiful and responsive portfolio landing page suitable for internship submission and beginner web development practice<img width="1913" height="946" alt="outpuuttt" src="https://github.com/user-attachments/assets/bb113697-a34f-442e-8697-23d3cc1a2d15" />
-<img width="1920" height="949" alt="ouuuuutttput" src="https://github.com/user-attachments/assets/1331df8b-f3e1-409e-8f46-722e974c6149" />
-<img width="1868" height="544" alt="output2" src="https://github.com/user-attachments/assets/f72b8eb8-0ae5-4990-9975-4695bf2a22ba" />
-<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/50f344f6-9476-4786-a84a-59d60356f464" />
+The project successfully creates a beautiful and responsive portfolio landing page suitable for internship submission and beginner web development practice
+
+https://github.com/user-attachments/assets/2a66e654-4f31-40bb-af83-b0e11c0430c6
+
+
+
