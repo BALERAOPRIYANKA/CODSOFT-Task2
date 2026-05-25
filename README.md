@@ -71,7 +71,7 @@ Passionate about Frontend Development and Creative Web Design.
 
 ## Output
 
-The project successfully creates a beautiful and responsive portfolio landing page suitable for internship submission and beginner web development practice.<img width="1913" height="946" alt="outpuuttt" src="https://github.com/user-attachments/assets/696ae038-54fe-40f9-9c72-43bf6062e95a" />
-<img width="1920" height="949" alt="ouuuuutttput" src="https://github.com/user-attachments/assets/08e07e72-6bcd-440a-b89c-5594e38bc5b8" />
-<img width="1868" height="544" alt="output2" src="https://github.com/user-attachments/assets/30b909d5-bd61-4440-b256-d89362d1fad6" />
-<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/cbaf8e13-9bbe-4b43-939e-0eb6af52dca1" />
+The project successfully creates a beautiful and responsive portfolio landing page suitable for internship submission and beginner web development practice<img width="1913" height="946" alt="outpuuttt" src="https://github.com/user-attachments/assets/bb113697-a34f-442e-8697-23d3cc1a2d15" />
+<img width="1920" height="949" alt="ouuuuutttput" src="https://github.com/user-attachments/assets/1331df8b-f3e1-409e-8f46-722e974c6149" />
+<img width="1868" height="544" alt="output2" src="https://github.com/user-attachments/assets/f72b8eb8-0ae5-4990-9975-4695bf2a22ba" />
+<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/50f344f6-9476-4786-a84a-59d60356f464" />
